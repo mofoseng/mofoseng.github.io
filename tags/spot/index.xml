@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spot on Mofos Engineering</title>
-    <link>http://mofoseng.github.io/tags/spot/</link>
+    <link>https://mofoseng.github.io/tags/spot/</link>
     <description>Recent content in Spot on Mofos Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2019 09:07:48 +0700</lastBuildDate>
     
-	<atom:link href="http://mofoseng.github.io/tags/spot/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mofoseng.github.io/tags/spot/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Our migration from kops to EKS</title>
-      <link>http://mofoseng.github.io/posts/eks-migration/</link>
+      <link>https://mofoseng.github.io/posts/eks-migration/</link>
       <pubDate>Fri, 23 Aug 2019 09:07:48 +0700</pubDate>
       
-      <guid>http://mofoseng.github.io/posts/eks-migration/</guid>
+      <guid>https://mofoseng.github.io/posts/eks-migration/</guid>
       <description>The Kubernetes community has great momentum, resulting in frequent releases packed with features. Keeping up to speed with every release best practices in terms of bootstrapping and patches is close to a full time job. Luckily, every major cloud has a managed Kubernetes offering, allowing you to iterate faster on the workloads you run on top of it. This article will be a detailed overview of our adoption and migration into EKS.</description>
     </item>
     

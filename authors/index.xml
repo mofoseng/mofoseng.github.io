@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Mofos Engineering</title>
-    <link>http://mofoseng.github.io/authors/</link>
+    <link>https://mofoseng.github.io/authors/</link>
     <description>Recent content in Authors on Mofos Engineering</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 23 Aug 2019 09:07:48 +0700</lastBuildDate>
     
-	<atom:link href="http://mofoseng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mofoseng.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://mofoseng.github.io/authors/vincent-de-smet/</link>
+      <link>https://mofoseng.github.io/authors/vincent-de-smet/</link>
       <pubDate>Fri, 23 Aug 2019 09:07:48 +0700</pubDate>
       
-      <guid>http://mofoseng.github.io/authors/vincent-de-smet/</guid>
+      <guid>https://mofoseng.github.io/authors/vincent-de-smet/</guid>
       <description>Senior DevOps in charge of the initial AWS / Kube configurations at Honestbee / Swatmobile. Specializes in Terraform, Kubernetes and Cloud architectures.</description>
     </item>
     
